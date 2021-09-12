@@ -1,1 +1,1 @@
-# DjangoREST-REACT
+# To-do app made with DjangoREST-REACT
